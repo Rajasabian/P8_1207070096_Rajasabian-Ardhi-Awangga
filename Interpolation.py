@@ -1,4 +1,4 @@
-import mh as mh 
+import mahotas as mh 
 import numpy as np 
 from pylab import imshow, show 
 regions = np.zeros((8, 8), bool)
